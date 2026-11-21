@@ -1,0 +1,23 @@
+peran pemrograman dalam robotik
+fungsi pemrograman:
+- mengolah data sensor =
+	kode mertugas untuk membaca sinyal mentah dari sensor
+- mengambil keputusan 
+	unutk merespoms perubahan lingkungan secara mandiri
+- mengendalikan Gerakan
+	mengirimkan sinyal yang presisi ke actuator agar robot dapar bergerak mulus,menjafa keseimbangan dll
+- komunkasi dan koordinasi 
+	memungkinkan robot berkomunikasi dengan controller atau antar-robot
+
+pemrograman berurusan dengan microcontroller
+-Arduino(untuk pemula yang lagi belajar yang belajar IoT)[proyek sederhana]
+-ESP32(buat yang lebih jago)[lebih mahal]
+
+tools pemrograman
+-vs code(code editor) untuk menulis dan memereikasa dan mengunggah kode ke papan mikrointroler seperti Arduino Uno,ataupun ESP32 dengan extension PlatformIO
+
+funsi setup():
+-akan dijalankan Ketika menjalankan atau restart
+
+GitHub:
+- hubungkan git dengan GitHub
